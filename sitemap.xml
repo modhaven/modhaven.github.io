@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://modhaven.github.io/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://modhaven.github.io/page-sitemap1.xml</loc>
+		<lastmod>2025-03-19T04:59:34+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://modhaven.github.io/page-sitemap2.xml</loc>
+		<lastmod>2025-03-18T17:26:25+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://modhaven.github.io/page-sitemap3.xml</loc>
+		<lastmod>2025-03-18T17:24:26+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
